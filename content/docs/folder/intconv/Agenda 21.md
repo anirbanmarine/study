@@ -5,7 +5,7 @@ prev: docs/folder/
 toc: true
 ---
 
-## What is Agenda 21 ##
+## What is Agenda 21
 
 Agenda 21 is a comprehensive plan of action to achieve sustainable development. It was adopted by 178 governments at the United Nations Conference on Environment and Development (UNCED) in Rio de Janeiro, Brazil, in 1992. Agenda 21 is a non-binding document, but it has been influential in guiding sustainable development efforts around the world.
 
