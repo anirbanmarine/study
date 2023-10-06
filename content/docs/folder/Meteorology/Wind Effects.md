@@ -93,7 +93,7 @@ Wind confluence is an important factor in weather forecasting. By understanding 
 **What is wind vorticity?**
 
 Wind vorticity is a measure of the rotation of the wind. It is calculated as the curl of the wind velocity. 
-{{< icon "star" >}}
+
 >Vorticity is a vector quantity, meaning that it has both magnitude and direction. The magnitude of vorticity represents the strength of the rotation, while the direction of vorticity represents the axis around which the rotation is occurring.
 >Wind vorticity can be either positive or negative. Positive vorticity indicates that the wind is rotating counterclockwise, while negative vorticity indicates that the wind is rotating clockwise.
 
