@@ -1,7 +1,11 @@
 ---
-title: Extra Master 
-next: first-page
-weight: 40
+title: Parts-Syllabus 
+
 ---
-First we shall attempt to go through Part C consisting of Modules EM301,EM302,EM303
-Kindly read through the modules EM301,EM302,EM303.
+
+* [Part A]({{< ref "parta/">}})
+* [Part B]({{< ref "partb/">}})
+* [Part C]({{< ref "partc/">}})
+
+
+

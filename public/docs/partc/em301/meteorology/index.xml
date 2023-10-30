@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meteorology on Extra Master India</title>
+    <link>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/</link>
+    <description>Recent content in Meteorology on Extra Master India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyclonic Storms</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</guid>
+      <description>What is a Cyclonic storm?
+Cyclonic storms, also known as tropical cyclones, hurricanes, and typhoons, are rotating wind systems that form over warm ocean waters. They are characterized by a central region of low atmospheric pressure and strong winds that rotate in a counterclockwise direction in the Northern Hemisphere and clockwise direction in the Southern Hemisphere.
+How is a cyclonic storm formed?
+The formation of cyclonic storms is a complex process that requires a number of factors to come together, including:</description>
+    </item>
+    
+    <item>
+      <title>El Nino and La Nina</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</guid>
+      <description>By influencing global temperatures and precipitation, the El Niño/Southern Oscillation (ENSO) significantly impacts Earth’s ecosystems and human societies. El Niño and La Niña are opposite extremes of the ENSO, which refers to cyclical environmental conditions that occur across the Equatorial Pacific Ocean. These changes are due to natural interactions between the ocean and atmosphere. Sea surface temperature, rainfall, air pressure, atmospheric and ocean circulation all influence each other. A satellite image of the Earth showing an abnormally warm area near the equator off the West Coast of South America.</description>
+    </item>
+    
+    <item>
+      <title>Meteorological Observation Systems</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/metobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/metobs/</guid>
+      <description>Synoptic weather observations Synoptic weather observations are observations of the atmosphere that are made at regular intervals, typically every three or six hours, at a global network of weather stations. These observations are used by meteorologists to create weather maps and forecasts.
+Synoptic weather observations typically include the following elements:
+Temperature: The air temperature at the time of the observation. Dew point: The temperature at which the air would become saturated with water vapor and condensation would occur.</description>
+    </item>
+    
+    <item>
+      <title>Wind Effects</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/</guid>
+      <description>Divergence What is wind effects divergence? Wind effects divergence refer to the effects of horizontal winds on the divergence of air. Divergence is a measure of how much air is spreading out from a given point. It is calculated as the sum of the changes in the wind speed in the x, y, and z directions. Wind effects divergence can be either positive or negative. Positive divergence means that air is spreading out from a given point, while negative divergence means that air is converging towards a given point.</description>
+    </item>
+    
+  </channel>
+</rss>

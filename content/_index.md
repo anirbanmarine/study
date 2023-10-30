@@ -7,4 +7,8 @@ This site is for openly available study materials on the web for different subje
 
 ## Explore
 
+* [Documents]({{< ref "/docs">}})
+* [About]({{< ref "about">}})
+
+![waves](/images/Wheel2.svg)
 

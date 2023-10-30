@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydrographic Surveying on Extra Master India</title>
+    <link>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/</link>
+    <description>Recent content in Hydrographic Surveying on Extra Master India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic techniques of Hydrographic Surveying</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</guid>
+      <description>Hydrographic surveying is a complex and demanding field, but it is also essential for safe navigation and maritime transportation. Hydrographic surveyors use a variety of techniques to collect data about the depth and position of underwater features. This data is then used to create nautical charts, which are essential for ships and boats to navigate safely.
+Here are some additional details about the basic techniques of hydrographic surveying: Sounding: Sounding is a relatively simple technique, but it can be very effective in shallow waters.</description>
+    </item>
+    
+    <item>
+      <title>Control in hydrographic surveying</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/control/</guid>
+      <description>Control in hydrographic surveying is the process of establishing a network of known horizontal and vertical positions that is used to reference all other survey measurements. Control is essential for ensuring the accuracy and reliability of hydrographic surveys.
+There are two main types of control in hydrographic surveying: horizontal control and vertical control.
+Horizontal control establishes the horizontal position of survey points. It is typically established using a network of geodetic survey markers, such as triangulation stations and GPS reference points.</description>
+    </item>
+    
+    <item>
+      <title>Position Fixing using short range high accuracy radio signals</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/posfix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/posfix/</guid>
+      <description>Short-range high accuracy radio signals can be used for hydrographic survey position fixing in a number of ways.
+One common method is to use a differential global positioning system (DGPS). DGPS works by using a network of ground-based reference stations to correct the errors in GPS signals. This can improve the accuracy of GPS positioning to a few centimeters.
+Another method of using short-range high accuracy radio signals for hydrographic survey position fixing is to use a real-time kinematic (RTK) GPS system.</description>
+    </item>
+    
+    <item>
+      <title>Theory of preparation of Navigational Chart</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/nchart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/hydrosurv/nchart/</guid>
+      <description>Navigational charts are essential tools for safe and efficient navigation. They provide mariners with information about the seafloor, surrounding land, and navigational hazards. Navigational charts are also used for a variety of other purposes, such as coastal engineering, marine research, and maritime planning.
+The preparation of navigational charts is a complex process that involves the collection, processing, and analysis of a wide variety of data. The goal of chart preparation is to create a depiction of the seafloor and surrounding land that is accurate, reliable, and easy to use for navigation.</description>
+    </item>
+    
+  </channel>
+</rss>

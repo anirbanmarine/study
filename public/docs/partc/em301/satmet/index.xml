@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellite Meteorology on Extra Master India</title>
+    <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/</link>
+    <description>Recent content in Satellite Meteorology on Extra Master India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History of Satellite Meteorology</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</guid>
+      <description>Development of Satellite Meteorology The historical development of satellite meteorology can be traced back to the early days of the space race between the United States and the Soviet Union. In 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. Sputnik 1 provided the first space views of our planet&amp;rsquo;s surface and atmosphere, and its success spurred the development of meteorological satellites.
+The first weather satellite, Vanguard 2, was launched by the United States in 1959.</description>
+    </item>
+    
+    <item>
+      <title>Indian Satellite Meteorology Programme (ISMP)</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/ismp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/ismp/</guid>
+      <description>What is ISMP? The Indian Satellite Meteorology Programme (ISMP) is a joint initiative of the Indian Meteorological Department (IMD) and the Indian Space Research Organisation (ISRO). The ISMP was established in the early 1970s, and it has played a vital role in the development of India&amp;rsquo;s meteorological capabilities.
+What are the key objectives of ISMP? The ISMP&amp;rsquo;s primary objective is to provide IMD with the satellite data needed to improve weather forecasting and to monitor climate change.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative estimation of sea surface temperature (SST)</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/qestsst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/qestsst/</guid>
+      <description>Quantitative estimation of sea surface temperature (SST) can be done using a variety of methods, including: Satellite remote sensing: Satellites equipped with infrared and microwave sensors can be used to measure SST from space. These sensors measure the amount of infrared and microwave radiation emitted by the sea surface, which is related to its temperature.
+In situ measurements: In situ measurements of SST can be made using a variety of sensors, such as buoys, ships, and aircraft.</description>
+    </item>
+    
+    <item>
+      <title>Remote sensing techniques</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/rsense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/rsense/</guid>
+      <description>What are Remote sensing Techniques used for meteorology? Remote sensing techniques are used in meteorology to measure and monitor atmospheric conditions from a distance. This is done by detecting and measuring electromagnetic radiation emitted or reflected by the atmosphere and its constituents, such as clouds, aerosols, and precipitation.
+Different types of remote sensing techniques are used in meteorology, including:
+Satellite imagery: Satellites provide global coverage of the atmosphere, allowing meteorologists to track weather systems and monitor climate trends.</description>
+    </item>
+    
+    <item>
+      <title>Synoptic cloud patterns and their interpretation.</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/synclouds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/synclouds/</guid>
+      <description>What are Synoptic cloud patterns? Synoptic cloud patterns are large-scale cloud formations that are associated with specific weather systems. Meteorologists use synoptic cloud patterns to identify and track these weather systems, and to forecast future weather conditions.
+Some of the most common synoptic cloud patterns include: Cirrus clouds: Cirrus clouds are thin, wispy clouds that are high in the atmosphere. They are often associated with fair weather, but they can also be a sign of approaching bad weather.</description>
+    </item>
+    
+    <item>
+      <title>Tropical Storm Analysis using Satellite Data</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/sattropic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/sattropic/</guid>
+      <description>Satellite data is essential for tropical storm analysis. It provides meteorologists with a global view of tropical storms, allowing them to track their movement, intensity, and structure. Satellite data is also used to assess the potential for tropical storms to produce hazardous weather conditions, such as heavy rain, strong winds, and storm surge.
+Here are some specific examples of how satellite data is used for tropical storm analysis: To track the movement of tropical storms.</description>
+    </item>
+    
+    <item>
+      <title>Vertical profiles of temperature and humidity</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/vertprof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/vertprof/</guid>
+      <description>How Vertical profiles of temperature and Humidity can be measured? Vertical profiles of temperature and humidity from satellite pictures can be retrieved using a variety of methods. One common method is to use infrared sounders. Infrared sounders measure the amount of infrared radiation emitted by the atmosphere at different wavelengths. This information can be used to infer the temperature and humidity of the atmosphere at different altitudes.
+Another method for retrieving vertical profiles of temperature and humidity from satellite pictures is to use microwave radiometers.</description>
+    </item>
+    
+    <item>
+      <title>Visual and Infra red Channels</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/</guid>
+      <description>What are Visual and Infra Red Channels in Satellite Meteorology In Satellite Meteorology ,visual and infrared channels are used to detect and measure different atmospheric conditions and phenomena.
+Visible channels: Visible channels detect electromagnetic radiation in the visible spectrum, which is the range of wavelengths that can be seen by the human eye. Visible channels are used to image clouds, fog, and other features on the Earth&amp;rsquo;s surface.
+Infrared channels: Infrared channels detect electromagnetic radiation in the infrared spectrum, which is a range of wavelengths that are invisible to the human eye but can be felt as heat.</description>
+    </item>
+    
+  </channel>
+</rss>

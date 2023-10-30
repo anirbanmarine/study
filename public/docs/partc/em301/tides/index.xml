@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth&#39;s tides on Extra Master India</title>
+    <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/</link>
+    <description>Recent content in Earth&#39;s tides on Extra Master India</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://techdoc.anirbanmarine.in/docs/partc/em301/tides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
+      <description>Tides can be classified in a number of ways, including by frequency, range, and type.
+Frequency Tides can be classified by frequency based on the number of high and low tides that occur each day. The three main types of tidal frequencies are:
+Diurnal tides: One high tide and one low tide per day. Semi-diurnal tides: Two high tides and two low tides per day. Mixed tides: A combination of diurnal and semi-diurnal tides, with the number of high and low tides varying per day.</description>
+    </item>
+    
+    <item>
+      <title>Co-Tidal Charts</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/cotidal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/cotidal/</guid>
+      <description>Co-tidal charts Co- Tidal Charts are a valuable tool for mariners, fishermen, coastal engineers, and climate scientists. They provide information about the tidal wave propagation, which is the movement of the tides through the oceans. This information can be used to predict the times and heights of the high and low tides, as well as the direction of the tidal currents.
+Co-tidal charts are created using a variety of data, including tide gauge data, satellite data, and computer models.</description>
+    </item>
+    
+    <item>
+      <title>Establishment of Datums</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/datums/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/datums/</guid>
+      <description>What is a datum? A datum is a reference system that is used to measure distances, elevations, and other geospatial data. Datums are important because they allow us to compare geospatial data from different sources and to create maps and charts that are accurate and consistent.
+Types of datums There are two main types of datums: horizontal datums and vertical datums.
+Horizontal datums are used to measure distances on a flat surface, such as the Earth&amp;rsquo;s surface.</description>
+    </item>
+    
+    <item>
+      <title>Mean Sea Level</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/msl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/msl/</guid>
+      <description>Mean sea level (MSL) is the average height of the sea&amp;rsquo;s surface over a period of time, typically 19 years. It is a reference point for measuring elevations and changes in sea level.
+MSL is determined by averaging hourly tide measurements over the period of time. This average is then adjusted for the effects of non-tidal factors, such as atmospheric pressure and wind.
+There are two main methods for determining MSL: Tide gauges: Tide gauges are instruments that measure the height of the sea surface at a specific location.</description>
+    </item>
+    
+    <item>
+      <title>Tidal Streams,currents and their measurement</title>
+      <link>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/tidstream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techdoc.anirbanmarine.in/docs/partc/em301/tides/tidstream/</guid>
+      <description>Tidal streams and currents are both movements of water in the ocean, but they have different causes and characteristics. Tidal streams are caused by the gravitational pull of the moon and sun on the Earth&amp;rsquo;s oceans. They are predictable and follow a regular cycle, with the direction and speed of the current changing with the tides. Tidal streams are strongest in coastal areas and estuaries, where the water is confined and the tidal range is high.</description>
+    </item>
+    
+  </channel>
+</rss>
