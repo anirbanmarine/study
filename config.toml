@@ -77,6 +77,14 @@ enableMissingTranslationPlaceholders = false
         weight = 1
         identifier = 'home'
         pre = "<i class='fa fa-heart'></i>&nbsp;"
+        
+        
+     [[menu.main]]
+        name = "About"
+        url = "/about"
+        weight = 1
+        identifier = 'about'
+        pre = "<i class='fa fa-user'></i>&nbsp;"
 
     
 
